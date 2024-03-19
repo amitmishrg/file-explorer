@@ -1,5 +1,7 @@
 # 🔥 File Explorer with React, Typescript & CSS
 
+Preview - https://file-explorer-inky.vercel.app/
+
 ## Quick start
 
 **Clone This repo using:**

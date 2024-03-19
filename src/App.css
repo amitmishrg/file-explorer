@@ -37,7 +37,7 @@ main {
     }
 
     .rename {
-      color: var(---renameColor);
+      color: var(--renameColor);
     }
 
     .copy {
